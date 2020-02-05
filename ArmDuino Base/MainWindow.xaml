@@ -1,0 +1,53 @@
+﻿<Window x:Class="ArmDuino_Base.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:ArmDuino_Base.ViewModel"
+        xmlns:converters="clr-namespace:ArmDuino_Base.Converters"
+        Title="MainWindow" Height="1080" Width="1920">
+    <Window.Resources>
+        <vm:MainViewModel x:Key="MainViewModel"/>
+        <converters:SliderMapper x:Key="SliderMapper"/>
+    </Window.Resources>
+    <Grid Background="Black" DataContext="{StaticResource MainViewModel}">
+        <Image Name="videoImage" Width="1280" Height="1024" Source="{Binding KinectHandler.ImageFromKinect, Mode=TwoWay}"/>
+        <Canvas Grid.Column="0" Width="1280" Height="1024">
+            <Ellipse Fill="Red"
+                         Height="10"
+                         Width="10"
+                         Name="ellipseLeftHand"
+                         Stroke="White" />
+            <Ellipse Fill="Red"
+                         Height="10"
+                         Width="10"
+                         Name="ellipseRightHand"
+                         Stroke="White" />
+            <Ellipse Fill="Red"
+                         Height="10"
+                         Width="10"
+                         Name="ellipseHead"
+                         Stroke="White" />
+            <Ellipse Fill="Red"
+                         Height="10"
+                         Width="10"
+                         Name="ellipseRightElbow"
+                         Stroke="White" />
+            <Ellipse Fill="Red"
+                         Height="10"
+                         Width="10"
+                         Name="ellipseRightShoulder"
+                         Stroke="White" />
+            <Ellipse Fill="Red"
+                         Height="10"
+                         Width="10"
+                         Name="ellipseLeftShoulder"
+                         Stroke="White" />
+            <Ellipse Fill="Red"
+                         Height="10"
+                         Width="10"
+                         Name="ellipseRightWrist"
+                         Stroke="White" />
+        </Canvas>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="189" Margin="187,88,0,0" VerticalAlignment="Top" Width="414" Source="Assets/LOGO_ESCUELA.png"/>
+        <Image x:Name="image_Copy" HorizontalAlignment="Left" Height="189" Margin="924,88,0,0" VerticalAlignment="Top" Width="414" Source="IEEE.png"/>
+    </Grid>
+</Window>

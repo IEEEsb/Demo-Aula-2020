@@ -1,0 +1,52 @@
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\bin\Debug\KinectInteraction180_64.dll
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\bin\Debug\KinectInteraction180_32.dll
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\bin\Debug\ArmDuino Base.exe.config
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\bin\Debug\ArmDuino Base.exe
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\bin\Debug\ArmDuino Base.pdb
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\bin\Debug\Microsoft.Kinect.dll
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\bin\Debug\Microsoft.Kinect.xml
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\ArmDuino Base.csprojAssemblyReference.cache
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\Interop.KinectManagement.dll
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\ArmDuino Base.csproj.ResolveComReference.cache
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\MainWindow.g.cs
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\App.g.cs
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\ArmDuino Base_Content.g.cs
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\ArmDuino Base_MarkupCompile.cache
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\ArmDuino Base_MarkupCompile.lref
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\MainWindow.baml
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\ArmDuino Base.g.resources
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\ArmDuino_Base.Properties.Resources.resources
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\ArmDuino Base.csproj.GenerateResource.cache
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\ArmDuino Base.csproj.CopyComplete
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\ArmDuino Base.exe
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\obj\Debug\ArmDuino Base.pdb
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\bin\Debug\Microsoft.Office.Client.Education.dll
+D:\Descargas\ArmDuino-Kinect-Integration\ArmDuino Base\ArmDuino Base\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\bin\Debug\KinectInteraction180_64.dll
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\bin\Debug\KinectInteraction180_32.dll
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\bin\Debug\ArmDuino Base.exe.config
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\bin\Debug\ArmDuino Base.exe
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\bin\Debug\ArmDuino Base.pdb
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\bin\Debug\Microsoft.Kinect.dll
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\bin\Debug\Microsoft.Office.Client.Education.dll
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\bin\Debug\Microsoft.Kinect.xml
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\ArmDuino Base.csprojAssemblyReference.cache
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\Interop.KinectManagement.dll
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\ArmDuino Base.csproj.ResolveComReference.cache
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\MainWindow.g.cs
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\App.g.cs
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\ArmDuino Base_Content.g.cs
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\ArmDuino Base_MarkupCompile.cache
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\ArmDuino Base_MarkupCompile.lref
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\MainWindow.baml
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\ArmDuino Base.g.resources
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\ArmDuino_Base.Properties.Resources.resources
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\ArmDuino Base.csproj.GenerateResource.cache
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\ArmDuino Base.csproj.CopyComplete
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\ArmDuino Base.exe
+D:\AULA\ArmDuino Base Funciona\ArmDuino Base\obj\Debug\ArmDuino Base.pdb
